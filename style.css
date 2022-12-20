@@ -38,7 +38,7 @@
 
     to {
     	bottom: 300px;
-    	left:1250px;
+    	left:1270px;
     	transform: rotateY(0deg)
 }
     
@@ -53,6 +53,6 @@
     
     to {
     	bottom:140px;
-    	right:1250px;
+    	right:1270px;
     }
 }
